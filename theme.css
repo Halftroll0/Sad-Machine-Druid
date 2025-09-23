@@ -48,7 +48,7 @@ body {
   /* 2.1 Dark theme color variables */
   --bg0-dark: #22282c;
   --bg1-dark: #272f34;
-  --bg-dark: #2f383e;
+  --bg-dark: #1d2226;
   --bg2-dark: #374247;
   --bg3-dark: #404c51;
   --bg4-dark: #4a555b;
@@ -60,7 +60,7 @@ body {
   --bg_yellow: #4a4940;
   --shadow: #00000070;
 
-  --fg-dark: #beb39b;
+  --fg-dark: #e0d5bb;
   --grey0-dark: #7f897d;
   --grey1-dark: #859289;
   --grey2-dark: #9aa79d;
@@ -70,16 +70,16 @@ body {
   --faded-yellow: #dbbc7f;
   --faded-green: #a7c080;
   --faded-aqua: #83c092;
-  --faded-blue: #7fbbb3;
+  --faded-blue: #93d6cd;
   --faded-purple: #d699b6;
 
-  --dim-red: #925b62;
-  --dim-orange: #b98c70;
-  --dim-yellow: #d3b879;
-  --dim-green: #68925b;
-  --dim-aqua: #569d79;
-  --dim-blue: #5b928c;
-  --dim-purple: #705b92;
+  --dim-red: #ca818b;
+  --dim-orange: #d3a080;
+  --dim-yellow: #ddc48b;
+  --dim-green: #83b374;
+  --dim-aqua: #498668;
+  --dim-blue: #6fb3ab;
+  --dim-purple: #967bc2;
 
   /* 2.2 Light theme color variables */
   --bg0-light: #f0edd8;
